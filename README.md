@@ -43,6 +43,7 @@ git clone https://github.com/ahsanwinning/sms_mail_bomber/
 
 ## ▶️ Usage
 cd sms_mail_bomber
-python3 test1.py
+chmod +x Blaster.py
+python3 Blaster.py
 
 
