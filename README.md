@@ -31,7 +31,7 @@ Install dependencies:
 pip install aiohttp
 
 
-Or if using a virtual environment, use these commands:
+Or if wana use a virtual environment, use these commands:
 
 python3 -m venv venv
 source venv/bin/activate
@@ -44,6 +44,6 @@ git clone https://github.com/ahsanwinning/sms_mail_bomber/
 ## ▶️ Usage
 cd sms_mail_bomber
 chmod +x Blaster.py
-python3 Blaster.py
+./Blaster.py
 
 
